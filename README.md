@@ -1,1 +1,1 @@
-This repository contains my assignment for the IBM Data Science Professional Certificate course. The project explores the data science ecosystem, including popular tools, languages, and libraries used by data scientists.
+
